@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Prediction: Antigravity Use case
 
-This entire repository—including the exhaustive EDA, the robust machine learning pipelines, the hyperparameter optimization scripts, and this documentation - was engineered by **Antigravity**. It serves as a benchmark example of autonomous AI usage in complex data engineering and predictive modeling tasks.
+This entire repository—including the exhaustive EDA, the robust machine learning pipelines, the hyperparameter optimization scripts, and this documentation - was engineered by **Antigravity**. It serves as an example of autonomous AI usage in data engineering and predictive modeling tasks.
 
 ---
 
