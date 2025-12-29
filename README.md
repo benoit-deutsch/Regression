@@ -1,4 +1,4 @@
-![Cutty Sark in Greenwich](assets/cutty_sark.png)
+<img src="assets/cutty_sark.png" alt="Cutty Sark in Greenwich" height="350">
 
 # 🚢 Titanic Survival Prediction: Antigravity Use case
 
