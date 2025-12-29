@@ -4,7 +4,7 @@ This entire repository—including the exhaustive EDA, the robust machine learni
 
 ---
 
-## 🛠️ Technical Architecture
+## 🛠️ Technical Architecture 
 
 ### 🛡️ Professional Preprocessing
 We implement a robust pipeline that prevents data leakage by isolating training and validation data:

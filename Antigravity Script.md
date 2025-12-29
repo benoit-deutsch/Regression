@@ -2,7 +2,7 @@ I am a data scientist and I need to make a prediction about survival on Titanic 
 
 Take as much time as you need to complete the task: I value quality over speed, i expect detailed EDA with charts on all metrics and clear next steps on how to improve the models. The focus is the Jupyter notebook output and the Python code. Do not build any fancy UI with charts.
 
-The document is intended for a non data scientists audience so please explain in plain english the output.
+The document is intended for a non data scientists audience so please explain in plain english the output. 
 
 Features
 1. Include a feature to import csv and 
