@@ -1,4 +1,4 @@
-<img src="assets/cutty_sark_final.png" alt="Cutty Sark Banner" width="100%" height="300" style="object-fit: cover; object-position: center;">
+<img src="assets/cutty_sark_realistic.png" alt="Realistic Cutty Sark Banner" width="100%" height="300" style="object-fit: cover;">
 
 # 🚢 Titanic Survival Prediction: Antigravity Use case
 
