@@ -1,3 +1,5 @@
+![Cutty Sark in Greenwich](/c:/Users/benoi/.gemini/antigravity/brain/1c4840e4-22ae-478f-87df-d21a8fd15df3/cutty_sark_greenwich_1767025378438.png)
+
 # 🚢 Titanic Survival Prediction: Antigravity Use case
 
 This entire repository—including the exhaustive EDA, the robust machine learning pipelines, the hyperparameter optimization scripts, and this documentation - was engineered by **Antigravity**. It serves as an example of autonomous AI usage in data engineering and predictive modeling tasks.
