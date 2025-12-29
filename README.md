@@ -1,4 +1,4 @@
-![Cutty Sark in Greenwich](/c:/Users/benoi/.gemini/antigravity/brain/1c4840e4-22ae-478f-87df-d21a8fd15df3/cutty_sark_greenwich_1767025378438.png)
+![Cutty Sark in Greenwich](assets/cutty_sark.png)
 
 # 🚢 Titanic Survival Prediction: Antigravity Use case
 
