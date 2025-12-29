@@ -1,8 +1,8 @@
-<img src="assets/cutty_sark.png" alt="Cutty Sark in Greenwich" width="100%" height="350" style="object-fit: cover;">
+<img src="assets/cutty_sark_banner.png" alt="Cutty Sark Banner" width="100%">
 
 # 🚢 Titanic Survival Prediction: Antigravity Use case
 
-This entire repository—including the exhaustive EDA, the robust machine learning pipelines, the hyperparameter optimization scripts, and this documentation - was engineered by **Antigravity**. It serves as an example of autonomous AI usage in data engineering and predictive modeling tasks.
+This entire repository — including the exhaustive EDA, the robust machine learning pipelines, the hyperparameter optimization scripts, and this documentation - was engineered by **Antigravity**. It serves as an example of autonomous AI usage in data engineering and predictive modeling tasks.
 
 ---
 
