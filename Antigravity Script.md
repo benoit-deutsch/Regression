@@ -1,13 +1,8 @@
 I am a data scientist and I need to make a prediction about survival on Titanic dataset. The metric to predict is "Survived" in the dataset and you must be predict whether a passenger survived or not. In terms of models, you must use Logistic Regression, Random Forest and XGBoost. In terms of metrics, you must use AUC and ROC curves. 
 
-Take as much time as you need to complete the task: I value quality over speed, i expect detailed EDA with charts on all metrics and clear next steps on how to improve the models. The focus is the Jupyter notebook output and the Python code. Do not build any fancy UI with charts.
+Take as much time as you need to complete the task: I value quality over speed, i expect detailed EDA with charts on all metrics and clear next steps on how to improve the models. The focus is the Jupyter notebook output and the Python code.
 
 The document is intended for a non data scientists audience so please explain in plain english the output. 
-
-Features
-1. Include a feature to import csv and 
-2. a feature to export a Jupyter notebook as output and 
-3. display all Python code as Jupyter notebook output as well. 
 
 The csv will be in the same folder than the Jupyter notebook, keep it in mind when writing the code to import the file.
 
