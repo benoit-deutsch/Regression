@@ -32,12 +32,3 @@ b. Work on dynamic Ensemble based on best models
 7. Model Evaluation on AUC and ROC curves for the 3 models and the Ensemble
 8. Run SHAP interpretability  on the 3 models and the Ensemble with findings. Make sure to do it on the 3 models and the Ensemble and be careful not to mess up with the scaled version.
 9. Look at false positive and provide next steps with detailed instructions to improve models
-
-
-On all model steps, include AUC.
-
-Make one final check to make sure 
-1. the Jupyter export is working and
-2. the Python code runs without error
-
-And again, be very careful on the Jupyter export so take extra time on this task
